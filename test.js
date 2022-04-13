@@ -1,1 +1,1 @@
-let a = 'M'
+let a = 'MM'
